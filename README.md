@@ -27,7 +27,7 @@
     Developed a 2D shooting game using Pygame as part of the subject IT 2 during high school.
   </p>
   <h2 align="center">
-  <a href="[https://github.com/seysha-git/Green-Escape-Game](https://github.com/seysha-git/LegoLabPendel)" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/seysha-git/LegoLabPendel" target="_blank" style="text-decoration: none; color: inherit;">
     Segway control system
   </a>
 </h2>
