@@ -26,6 +26,21 @@
   <p align="center">
     Developed a 2D shooting game using Pygame as part of the subject IT 2 during high school.
   </p>
+  <h2 align="center">
+  <a href="https://github.com/seysha-git/Green-Escape-Game" target="_blank" style="text-decoration: none; color: inherit;">
+    Segway control system
+  </a>
+</h2>
+  <p align="center">
+    Developed a PID-controller for a segway using MATLAB & SIMULINK as a group project in the subject, intro to computerized control(TTK4100)
+  </p>
+ <div align="center">
+  <video width="640" height="360" controls>
+    <source src="assets/video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 </details>
 
 
