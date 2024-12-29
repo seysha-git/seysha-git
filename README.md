@@ -24,7 +24,7 @@
   </a>
 </h2>
   <p align="center">
-    Developed a 2D shooting game using Pygame as part of an IT 2 subject project in high school.
+    Developed a 2D shooting game using Pygame as part of the subject IT 2 during high school.
   </p>
 </details>
 
