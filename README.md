@@ -1,10 +1,10 @@
 ## Welcome👋. I am Seyon Shanthan
 
 ## About me
-* 🔭 Volunteer positions
-  * Project developer at Cogito NTNU, Cogitron. 
 * 🏦 Education
   * I'm a student at NTNU Trondheim and M.C.S in Cybernetics and robotics
+* 🔭 Volunteer positions
+  * Project developer at Cogito NTNU, Cogitron. 
 * 📖 Currently Reading
   * Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron
   * Building Machine Learning Pipelines by Hannnes Hapke & Catherine Nelson
