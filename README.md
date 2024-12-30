@@ -6,7 +6,7 @@
 * 🏦 Education
   * I'm a student at NTNU Trondheim and M.C.S in Cybernetics and robotics
 * 📖 Currently Reading
-  * Hands-On Machine Learning with Scikit-Learn & TensorFlow by Aurélien Géron
+  * Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron
   * Building Machine Learning Pipelines by Hannnes Hapke & Catherine Nelson
 ## 🧑‍💻 Tech I work on
 <div style="display: flex; gap: 10px; align-items: center;">
