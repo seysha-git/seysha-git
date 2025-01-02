@@ -7,7 +7,6 @@
   * Project developer at Cogito NTNU, Cogitron. 
 * 📖 Currently Reading
   * Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow by Aurélien Géron
-  * Building Machine Learning Pipelines by Hannnes Hapke & Catherine Nelson
 ## 🧑‍💻 Tech I work on
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://static.vecteezy.com/system/resources/previews/048/332/144/non_2x/python-icon-transparent-background-free-png.png" alt="Python" width="100" />
