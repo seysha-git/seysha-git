@@ -1,5 +1,3 @@
-## I am Seyon Shanthan
-
 ## About me
 * 🏦 Education
   * I'm a student at NTNU Trondheim and M.C.S in Cybernetics and Robotics
