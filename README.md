@@ -1,4 +1,4 @@
-## Welcome👋. I am Seyon Shanthan
+## I am Seyon Shanthan
 
 ## About me
 * 🏦 Education
