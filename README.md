@@ -11,7 +11,7 @@
 
 ## 📌 Latest
 <h2 align="center">
-  <a href="https://github.com/seysha-git/Green-Escape-Game" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/seysha-git/Numeric-methods-for-PDEs" target="_blank" style="text-decoration: none; color: inherit;">
      TMA4106: Standard Oblig
   </a>
 </h2>
