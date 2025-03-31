@@ -1,7 +1,6 @@
 ## About me
 * 🏦 Education
-  * I'm a student at NTNU Trondheim and M.C.S in Cybernetics and Robotics
-
+  *  First-year M.C.S. student in Cybernetics and Robotics at NTNU Trondheim.
 ## 🧑‍💻 Tech I work on
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://static.vecteezy.com/system/resources/previews/048/332/144/non_2x/python-icon-transparent-background-free-png.png" alt="Python" width="100" />
