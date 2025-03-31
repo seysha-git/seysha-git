@@ -9,6 +9,12 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt3p-HtOe931QwKElWKMhVhvd0x6XqcDDBwcCqL9WD-9CiON2sUlKCFK3FAVbPiqVxFuk&usqp=CAU" alt="Alt text" width="150" />
   <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="C++" width="100" />
 </div>
+## 🧑‍💻 Latest
+<h2 align="center">
+  <a href="https://github.com/seysha-git/Green-Escape-Game" target="_blank" style="text-decoration: none; color: inherit;">
+    TMA4106: Standard Oblig
+  </a>
+</h2>
 <details>
   <summary>🚀Cool Projects I've Worked On</summary>
   <h2 align="center">
