@@ -8,12 +8,6 @@
   <img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="C++" width="100" />
 </div>
 
-## 📌 Latest
-<h2 align="center">
-  <a href="https://github.com/seysha-git/Numeric-methods-for-PDEs" target="_blank" style="text-decoration: none; color: inherit;">
-     TMA4106: Standard Oblig
-  </a>
-</h2>
 
 ## 🚀 Projects
 <details>
