@@ -1,6 +1,6 @@
 ## About me
 * 🏦 Education
-  *  First-year M.C.S. student in Cybernetics and Robotics at NTNU Trondheim.
+  *  Second-year M.C.S. student in Cybernetics and Robotics at NTNU Trondheim.
 ## 🧑‍💻 Tech
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://static.vecteezy.com/system/resources/previews/048/332/144/non_2x/python-icon-transparent-background-free-png.png" alt="Python" width="100" />
@@ -13,6 +13,9 @@
 <details>
   <summary>Click to expand</summary>
 
+  ### [🤖  Data Science Competions](https://github.com/seysha-git/Kaggle-competions)
+  A range of different data science competion solutions for basic machine learning like regression and 
+  classification. Working progress...
   ### [🎮 2D Escape Game](https://github.com/seysha-git/Green-Escape-Game)
   Developed a 2D shooting game using Pygame as part of the subject IT 2 during high school.
 
