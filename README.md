@@ -1,5 +1,5 @@
-## 🏦 Second-year M.C.S. student in Cybernetics and Robotics at NTNU Trondheim.
-## 🚀 Recent projects
+## 🏦 Education: Second-year M.C.S. student in Cybernetics and Robotics at NTNU Trondheim.
+## 🚀 Recent projects: 
 <details>
   <summary>Click to expand</summary>
 
