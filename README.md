@@ -1,4 +1,7 @@
-## 🏦 Education: Second-year M.C.S. student in Cybernetics and Robotics at NTNU Trondheim.
+## 🏦 Education: Second-year MSc student in Cybernetics and Robotics at NTNU Trondheim.
+<detail>
+  <h2>Fields of interest</h2>
+</detail>
 ## 🚀 Recent projects: 
 <details>
   <summary>Click to expand</summary>
