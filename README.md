@@ -2,7 +2,7 @@
 ## 🙋 Fields of interest: Control and systems theory, software development and data science. 
 ## 🏦 Education: Second-year MSc student in Cybernetics and Robotics at NTNU Trondheim.
 ## 🎓 Courses & Projects: Explore repositories from personal projects and course-related work.
-<details>
+<details style="margin-left: 100px;">
   <summary><span style="font-size: 2em;">Courses:</span></summary>
   <br>
 
@@ -14,7 +14,7 @@
   </div>
 </details>
 
-<details>
+<details style="margin-left: 20px;">
   <summary><span style="font-size: 2em;">Personal projects:</span></summary>
   <br>
 
@@ -25,6 +25,7 @@
     </p>
   </div>
 </details>
+
 
   
  
