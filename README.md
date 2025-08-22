@@ -14,12 +14,6 @@
   </div>
   <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9; margin-bottom: 10px;">
     <p>
-      <strong>🔗 <a href="https://github.com/seysha-git/Procedural-and-objectoriented-programming.-" target="_blank">Procedural and Object-Oriented Programming</a></strong><br>
-      Basic and practice-oriented programming in C++.
-    </p>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9; margin-bottom: 10px;">
-    <p>
       <strong>🔗 <a href="https://github.com/seysha-git/Solution-ITExam-2022" target="_blank">Exam IT 2 2022</a></strong><br>
       Data analysis and game development in Pygame
     </p>
@@ -28,7 +22,7 @@
     <p>
       <strong>🔗 <a href="https://github.com/seysha-git/Numeric-methods-for-PDEs" target="_blank"Numeric-methods-for-PDEs
 "</a></strong><br>
-     ...
+     PDE solver for the heat equation using numpy and pandas
     </p>
   </div>
 </details>
