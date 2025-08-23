@@ -1,7 +1,15 @@
+## 🙋 Fields of Interest: Energy and Process Control
 
-## 🙋 Fields of interest: Control and systems theory, software development and data science. 
-## 🏦 Education: Second-year MSc student in Cybernetics and Robotics at NTNU Trondheim.
-## 🎓 Courses & Projects: Explore repositories from personal projects and course-related work.
+**Key topics include control and systems theory, software development, and data science.**
+
+## 🏦 Education
+
+Second-year MSc student in Cybernetics and Robotics at NTNU, Trondheim.
+
+## 🎓 Courses & Projects
+
+Explore repositories showcasing personal projects and course-related work.
+
 <details style="margin-left: 100px;">
   <summary><span style="font-size: 2em;" >📖 Current courses:</span></summary>
   <br>
