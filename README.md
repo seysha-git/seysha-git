@@ -26,9 +26,8 @@
   </div>
   <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9; margin-bottom: 10px;">
     <p>
-      <strong>🔗 <a href="https://github.com/seysha-git/Numeric-methods-for-PDEs" target="_blank"Numeric-methods-for-PDEs
-"</a></strong><br>
-     PDE solver for the heat equation using numpy and pandas
+      <strong>🔗 <a href="" target="_blank">Physics</a></strong><br>
+      Main topics: Dynamics. Thermal physics.
     </p>
   </div>
 </details>
