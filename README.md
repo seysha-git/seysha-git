@@ -45,14 +45,8 @@
   </div>
   <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;">
     <p>
-      <strong>🔗 <a href="https://github.com/seysha-git/Green-Escape-Game" target="_blank">Game-development in Python</a></strong><br>
-      A 2D-player game with Pygame. 
-    </p>
-  </div>
-  <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;">
-    <p>
-      <strong>🔗 <a href="https://github.com/seysha-git/Game-web-development" target="_blank">Gaming website</a></strong><br>
-      A web development project using html, css and javascript. 
+      <strong>🔗 <a href="https://github.com/seysha-git/my-problem-solving-solution-on-UVA" target="_blank">Problem-solving in C++/C</a></strong><br>
+     Introductory DSA problems solved weekly
     </p>
   </div>
 </details>
