@@ -3,7 +3,7 @@
 ## 🏦 Education: Second-year MSc student in Cybernetics and Robotics at NTNU Trondheim.
 ## 🎓 Courses & Projects: Explore repositories from personal projects and course-related work.
 <details style="margin-left: 100px;">
-  <summary><span style="font-size: 2em;">Current courses:</span></summary>
+  <summary><span style="font-size: 2em;" >📖 Current courses:</span></summary>
   <br>
 
   <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9; margin-bottom: 10px;">
@@ -28,7 +28,7 @@
 </details>
 
 <details style="margin-left: 20px;">
-  <summary><span style="font-size: 2em;">Current projects:</span></summary>
+  <summary><span style="font-size: 2em;">🎧Current projects:</span></summary>
   <br>
 
   <div style="border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;">
@@ -50,7 +50,7 @@
     </p>
   </div>
 </details>
-
+<h4>Finished projects pinned below 🖊️</h4>
 
   
  
