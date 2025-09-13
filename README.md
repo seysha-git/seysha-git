@@ -1,6 +1,6 @@
 ## 🙋 Fields of Interest: Energy and Process Control
 
-**Subject interests include control and systems theory, statistics and data science.**
+**Subject interests include control and systems theory, software development and data science.**
 
 ## 🏦 Education
 
