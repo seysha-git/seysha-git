@@ -1,4 +1,4 @@
-## 🙋 Fields of Interest:Systems theory and software development
+## 🙋 Fields of Interest: Systems theory and software development
 
 ## 🏦 Education
 
