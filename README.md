@@ -1,5 +1,3 @@
-## 🙋 Fields of Interest: Systems theory and software development
-
 ## 🏦 Education
 
 Second-year MSc student in Cybernetics and Robotics at NTNU, Trondheim.
